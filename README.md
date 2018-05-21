@@ -14,3 +14,5 @@
 
 
 [編集ページ](https://github.com/sf-proposals-seminar/sf-proposals-seminar.github.io)
+
+追加できない
